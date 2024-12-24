@@ -1,0 +1,12 @@
+*
+!*/
+!*.*
+*.hdf5
+*.pyc
+*.wav
+*.mp4
+__pycache__
+_logs
+*.pth
+*.zip
+paper_statistics
